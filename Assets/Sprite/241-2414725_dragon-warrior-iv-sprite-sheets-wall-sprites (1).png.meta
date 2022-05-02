@@ -1,0 +1,6350 @@
+fileFormatVersion: 2
+guid: b2b17eff9ec11d342bd207ab2d594043
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5029b818637959741beb6d6571c40e05
+      internalID: -675194011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f854e1c9df4a0c469b62c0ff7f328b0
+      internalID: -1216769604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef77656e61fc1e43b6e63571080134c
+      internalID: -2017978235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe3c5031f4e504c812b480a6e1c000
+      internalID: -516045749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8ceaf5c05f7c84cba4116b4bca8ec5
+      internalID: 675435738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cec7d095456ee48962bb53d1686d29
+      internalID: 2010799646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a45176c0ae073f49afbdf74ea6c5d84
+      internalID: 2098406459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d101da5e409749987cd21fe841674
+      internalID: -784864157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3391d74844ad68944849a4303d322561
+      internalID: -538875196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174d240a1a8e3ca42ad74268697fb270
+      internalID: 320648800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d630bfc41d044b85c2f020e138fcd
+      internalID: -122881211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bade93da56282499c295fd00c4d2ca
+      internalID: -1475480728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fe64078587bc54fb134060c6e46798
+      internalID: -241592722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a42dbe1cb0b464c808945b1e9c0f03
+      internalID: 837887476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6356304b22b2cb1459a7dfacff9bfe4d
+      internalID: 91805786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed81d887536228b4e8418c206c6e70e2
+      internalID: -424279485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c40cd46dcdeb4589565ebdfb92077
+      internalID: -664688462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8063b5a67bc98e4c8e1e1686984218f
+      internalID: -1652280379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f73d0b6021d4484c969ed20a074540d
+      internalID: 585971243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbced6876128844996247720f4dc852
+      internalID: -1126869154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b1aa512b8000418492c73fda4fb93
+      internalID: -330889481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb3ff062a7ffed4b9294626023e958b
+      internalID: 704347317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead17d9723dffd847a460acaebe1f0d8
+      internalID: 2036030889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f831b78e43a2e0445851fe20177cbe81
+      internalID: 2140326727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac01ea45241e41847a359c4b0b971381
+      internalID: 1565136971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05fa8020be5d5143bf23e8072b06e69
+      internalID: -2018683522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894516221e18d1c4bb6dbc2be2282f5d
+      internalID: -264903032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9ef7bb7d98e1b47a2f95dd1ecc5889
+      internalID: -771799329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116c540d4a03f464ca2a3f1391de2cfa
+      internalID: 8839532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_29
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddb21af87cabbe438e61fc8dece924b
+      internalID: -1359946927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad191f792d926b45a712a5db9465f8d
+      internalID: 540031161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d33e8f684a26249987f040fbbd6934
+      internalID: -1615067655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bde8c2e96281004ca009676817b8605
+      internalID: 1159612855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 320
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f49e2e826253374bbe26def429d7ff2
+      internalID: 926626773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703f4c4ca91554a4ea8ff03429f5c25e
+      internalID: 1108085269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b26bde63f9ce3243b8bb5a6e2c2702a
+      internalID: 1325777775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e54b5bc68a092f439254bc895ebcec8
+      internalID: -375998202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_37
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be8c3ca4b22324e8f2329f1bb0e634
+      internalID: -1852836990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2ecf1b6616d004bbb1230f625d131c
+      internalID: 1227593054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bd6502abe2b7c4dbbd52b2c4388272
+      internalID: -78237876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_40
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7229094a474a0a43b1999e5c7383c1a
+      internalID: 323574719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce452753931ec4f90f71829bc47e61
+      internalID: 819552173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_42
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56db8b2647d0e744b426bc751d916a0
+      internalID: 344099342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a861337bbbc962a4aa19a6ffeba5f7a0
+      internalID: -2077368515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c2ea89fe3d0a5479f050929aee84c0
+      internalID: -1502371885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_45
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2491ae0056b13747b1ecbc14dc7099d
+      internalID: -505212147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dc9b81adc41424793647472f0fa2ac
+      internalID: -1367975690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_47
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772fa99896a188342af6059d09101442
+      internalID: 1943171688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_48
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 300
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a0608d91b70914eb9dd87ca66f0ccf
+      internalID: 1991141257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543755c969c799c4f948634aa68628c3
+      internalID: 1797354318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2868f5f144d8c9a42bc14761b0e5e0fe
+      internalID: -718412177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd825c4596dd4ae4f93748924c72fefe
+      internalID: 1091069261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b78f2a0a3ffb24cb7b13cd883089dc
+      internalID: -1987382161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_53
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a584579b30ee334dac7eca5a7007a70
+      internalID: 454450056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_54
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff50681b2e3ca1542ac36a3dbcddebeb
+      internalID: 1239059000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_55
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02009760c60d0641adb3834f55ca011
+      internalID: 989926203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_56
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748493bbd746e96408dffede10edf159
+      internalID: -1282096937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_57
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eb29dd8e584ea4a8c36e0e5109bd61
+      internalID: 1370287945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_58
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6512c69ee5a6f408ad4fc702eab2d3
+      internalID: 1292677703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_59
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ab1eb4a5182224aa7809a19c76bb21
+      internalID: 1883652374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_60
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a5b229b0e36a24794e8c3d8fb99c8c
+      internalID: -1535374776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a963771cd9261634f86b80795ac49316
+      internalID: 1221389369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_62
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c343cf52e2d7e214fbc4a374634c7786
+      internalID: -541939721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48185f25c00c4214a9a0588ed6d4bec4
+      internalID: 69384631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_64
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1641ac2448222aa47b13119fbbf828f1
+      internalID: 1350238657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e18227b051dbc4ba96b8b7d6904f77
+      internalID: 947851383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_66
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db52bd6e352eb0c489ab158e67c92383
+      internalID: 38996964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_67
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080521b26a279764bab8021a0517b715
+      internalID: 1518230865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_68
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa113b7b7481ee74e9289f86ab83fab3
+      internalID: 1684392329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_69
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17db18cbe247b964ab49096b1e2ca2fb
+      internalID: -1815276536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_70
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776d8341e33cddf499d9bbcee1640eb4
+      internalID: -427924458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_71
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc127de42e3554caf19a99917cf995
+      internalID: 216311893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_72
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c15a1a4087026e40ad3f2b16df18ba6
+      internalID: -512741154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764ec35a18ccf7540be33871c2d28fe4
+      internalID: 2006883702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_74
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb95ab90e816f44992be469102684d1
+      internalID: -1194696436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd5af4a01542b4caffd01cbd6324e1
+      internalID: 257546137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_76
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0db138e5095524d9505c8d1ebfed04
+      internalID: 787954761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_77
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294d532ef3a045b45950b70e9ae99d94
+      internalID: -277494307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_78
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff2a8f629da6114d9a9b45d08c83b45
+      internalID: 1413267835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b6fcf86b97aa4b973498ba5309070
+      internalID: 2129008253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_80
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520b5a5d209ef8042a6d7a8cf674a2aa
+      internalID: 1830533902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_81
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4345b2dccee7a554b87fc484f78a198c
+      internalID: 260967480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_82
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e893fb1500b902244baec4284c1f5ae1
+      internalID: -1768807610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_83
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9e995d739f2f74eb9c8c3e5a38a7af
+      internalID: 1423543225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_84
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7925d9247e2576a44b41effa0062e3fc
+      internalID: 3967944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_85
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5683e8414997d824d8c31edaba380b0c
+      internalID: 1741733159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_86
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51820c7063ae2241adb006a6c3add98
+      internalID: 1971899128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1ca8959b4df304b924c01e2a374f45
+      internalID: 1278076287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_88
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a59c31d5cd686458406ddff7ef10af
+      internalID: 126302729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_89
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af280f3b96211f34db70e46531c690a6
+      internalID: 1554808233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_90
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233d87ad31759a743a4fae1836c1ffff
+      internalID: 763422925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_91
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8ca1247dfff9343826c64aeca145bb
+      internalID: 1867072413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_92
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1778a93c815924782fdb22fbafd8f8
+      internalID: 2026751161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_93
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c62143c95fe9549bc80fe57caf2b39
+      internalID: -533296529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_94
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a074dc558bd23948ab96a4e94c22977
+      internalID: -132211771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_95
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2941acc14fbcf214c8de54c5f070d92a
+      internalID: -71595507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_96
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eaecb2b5d56f04a8cb50aabb58b626
+      internalID: 305120548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_97
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb026fc31a68e4d87e8e3b8cf2e022
+      internalID: 708739347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_98
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6539ea569849484ca3c93c52127d916
+      internalID: 253778593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_99
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529109949ad4854a874750fcf0b2a01
+      internalID: 1296233021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_100
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62bf75f0150d354d94d6ec9393f2e32
+      internalID: 631137669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_101
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0c9e82034b77e4c821465ac0c7496b
+      internalID: -1340338582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7211f18112fe349b2c3572fdbb77b3
+      internalID: 1355194250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_103
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b25ff2986a04f48908c1b889454d11
+      internalID: 1754984125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_104
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580d96c09c3911a44b36b1ab4a0e051e
+      internalID: 252143112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_105
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac0ece80cc998a48af26c8742b5154e
+      internalID: 478827635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_106
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965e791f2eea2734796f9e97ee3acd55
+      internalID: -533889342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_107
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d760b9eacfb332e4fbc1449f9b20e196
+      internalID: -1449875457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_108
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cb6480e01f8ab48a9388a35b680b49
+      internalID: -312189491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_109
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a1256fc2418094f95a0e65c60bcbd6
+      internalID: -1501960147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_110
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9359e9cdc4ffefd478e71ba4ec5249e0
+      internalID: 210159396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_111
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c56da9fc1e0efb4398178f8726d6933
+      internalID: -1340610452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_112
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae96a7054e1da446992a3db3e3e4a27
+      internalID: -1019710663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_113
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95c0699f465f374785af2ccc4d7c4c9
+      internalID: -1303926516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_114
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d250532521ff96243a3c333f9e805b7e
+      internalID: -285780763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_115
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79477c83d0b31a240bcd855f2c59a88b
+      internalID: -2109011708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_116
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7606b7a26dd3d44a2aaaee275f077b
+      internalID: 543647630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_117
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ac177a0faba1a4ab97ca53777cdc91
+      internalID: 812694029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b770f0242480c1d458b76f3b1667bf55
+      internalID: 1662692685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_119
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72305eeff2988748942b0c2033a07d6
+      internalID: 1387459085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_120
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255fb4b27c2de884b91e2ad1b90e82f1
+      internalID: 1525293937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_121
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c5294d84a5dc04b9b81592c055206e
+      internalID: 374930506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_122
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880415baf0be3524cbba4b11bf62eb88
+      internalID: 944330656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_123
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4313d6249eab66f46ae32fca8f9127ef
+      internalID: -498412293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_124
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3072d98622c02246a3bdba036e1f6c7
+      internalID: 913386610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_125
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b708c7736b583ac4986397dcbd97958b
+      internalID: -2129605737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_126
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eaf84b81063cb4abe2b4a912596e40
+      internalID: -800465368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_127
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e39bec27f4eb04e897bc1d2317909a
+      internalID: -619749776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_128
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c15ae697bc4c3848b7e3de0af09f705
+      internalID: -248280637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_129
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0488c999a218aa48a329581045ce87e
+      internalID: 1724674894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_130
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6159aa182c4c94dbc8e85d117d1b52
+      internalID: -1247280208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_131
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38749d5816275c445b1d82bd94cd46b8
+      internalID: -1230613450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_132
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d56a2fed4984df49a7a0a11d2985944
+      internalID: 1976582828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_133
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eac8889d650bfb42aea50a5277b43c0
+      internalID: 348295602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_134
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbcb115910734442a3e2ee69a0a2d68
+      internalID: -521021984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_135
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba683d045a5ea414abcc59117f530baf
+      internalID: 880143535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_136
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86d6e7557c03594b86adc7130a4711e
+      internalID: -953961038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_137
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909e47c26c58b0a40bc107fa3d81fb95
+      internalID: 1830991912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_138
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec6575b4bf889a428b5dd3b72194dc8
+      internalID: -535925538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_139
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424d6dc5be7a96f4495b5dc474bc312d
+      internalID: -190095556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_140
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2839c4ba39f18b4081bc3ba04ab9f8e
+      internalID: 340828545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_141
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7ebdd5789e9a249b165ef655415af2
+      internalID: 480568425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_142
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc6a01866a9f3445b0ce44eaaf18c0c
+      internalID: -296845617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_143
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2429eeec3ffd09458a3eca9dbf3f0b0
+      internalID: 1512641881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_144
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57319229b8c5e874b810a5ee42698207
+      internalID: 186610753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_145
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db74d1a303ef05a40b90e935a8d48e75
+      internalID: 44464363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_146
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756980f5863dce843b77dc041a78ddd4
+      internalID: 1461064997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_147
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe53fd77d5554b40902e6bd978f237a
+      internalID: 299702825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_148
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7ecbc2a0b40104982de8db7bb44bb5
+      internalID: -1114878887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_149
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0f42c5d97fdc54d937afca7352f7da
+      internalID: 1416344736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_150
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b393608d630f646a0e574908c8717f
+      internalID: -544799381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_151
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a420bfcd8d0d36e46bb1e82d274e7e52
+      internalID: 311722214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_152
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bf4dabf5e4d0942a67cb1637571396
+      internalID: -455960742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_153
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc82a9aede1b22499491b45c88d05f2
+      internalID: 1495244332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_154
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1426d00ea4162d44910aac7ab2a57ff
+      internalID: -1716020205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_155
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3c50ad75f73b14196795dc4638439d
+      internalID: -13948441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_156
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b83f89b298faa47a7d1d94e547b1d2
+      internalID: 811884585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_157
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b94e974a6ef8488f3b1f5d84cdd06
+      internalID: 1832644199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_158
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0175b50168e5140a2830afcdea5404
+      internalID: 1227446651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_159
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e62f615b51abe4cb2d9f89154f9b89
+      internalID: -2006943608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_160
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc615852e6beacf46b8bbae999001bd9
+      internalID: -2131387990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_161
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2309f1d4aa205aa4393c434effd2dcd1
+      internalID: -1047459864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_162
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c4b1f1d49760d4b97973cd9b631589
+      internalID: -1030931171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_163
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb286a2f96574b438fa248e9556d29b
+      internalID: 400997384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_164
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995fb213055001544b1784a981f35faa
+      internalID: -656109447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_165
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba4f661a310b94dbf2c026e7173f8a
+      internalID: 1850979223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_166
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4f6f51f8792054a9c5adba05b4dda5
+      internalID: -839457455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_167
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1777be8d0a99f4a9fb7cfe12bfa28c
+      internalID: -214885499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_168
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eb5f9391bee884f83fca9da18fc840
+      internalID: -1789421335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_169
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cbcbda38a38334085c3e6470227486
+      internalID: -719774008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_170
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f548367a24d1b418829d01f9429387
+      internalID: -50728657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_171
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db630612646429842a7f85fdb781dbaf
+      internalID: 154633414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_172
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7315d770d1000f445ab38303ed76a8b1
+      internalID: 952012513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_173
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efb94172fdd3444fa8464d82441af2c
+      internalID: 1587226106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_174
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591f2c4f882dda84382238af02842090
+      internalID: 1529716782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_175
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f6ca049d9cf347a37e6ac43cac696
+      internalID: 1651988094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_176
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8aae9e5751bd14ea7433bd43cfdbd1
+      internalID: 1064408684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_177
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e19bf493d252243a587284dde794fb
+      internalID: -890930386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_178
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73069c0ef80724f4a92a29e841b51feb
+      internalID: 746606466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_179
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0673354bdd4b9d469c8633b157bf8aa
+      internalID: 561144443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_180
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53a2f1623fee264d8bcb8aaeff1fed3
+      internalID: -1089762191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_181
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c14954b8afe0654bb29292c7f60f7ce
+      internalID: 1303706529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_182
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0e62fe352741f4b8a1ebaece380888
+      internalID: 470367314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_183
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f163d7972595b3245ae6cfb1f27d8f29
+      internalID: -216221337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_184
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e672b54c18aa746a5c006047dcadfc
+      internalID: -1089042700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_185
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941509cd6f423f24384ab313ce92c4c5
+      internalID: -896013192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_186
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185e80078010d1c408f18b7098f60357
+      internalID: -945054908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_187
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b4afbf7ebb2fa45915989c04432ee4
+      internalID: -827137009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_188
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63fa7a8e19507c4988312a781590693
+      internalID: -39889464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_189
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfed093029cddf459a9afcf8bf051e5
+      internalID: 1484105005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_190
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049d3c826a23f4a4e990207c3f76c6b7
+      internalID: -1737074045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_191
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e62876b2864a1b438df9ef415a616b0
+      internalID: -575667556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_192
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d054d9a8a0de543bb61d28958e7103
+      internalID: 658717104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_193
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6696aad6196069e4aa237baeb1c841f0
+      internalID: 864587870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_194
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa994103b0545c45ac72fa9648583ce
+      internalID: -474615503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_195
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93354c4864702d4fba806ce44dd15a5
+      internalID: -827951699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_196
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26149c4d1951a144dbf8db277bcffd71
+      internalID: 692876445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_197
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08a26f12c31f8e4d8f932ce54ee5b08
+      internalID: 1931234960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_198
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea68e0b564636241bb231eb82e8f2eb
+      internalID: -1887232485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_199
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f86e8ff2b5580042a092aeeeb7ee0e2
+      internalID: -1394623797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_200
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00617068597c5264290e5a5da430af61
+      internalID: -2094013331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_201
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108caf45e3020cb4faa36bad6b00ac86
+      internalID: 1144899182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_202
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e26243f30050e468063b3bf7391673
+      internalID: -579561836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_203
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0794cb00366e8e14898610c7fb8e7920
+      internalID: 435449564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_204
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab78c940345084c99ad48eafaaa441
+      internalID: -1353373969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_205
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80820433a9ad48245954365eaabe4586
+      internalID: -1363801479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_206
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e083ce14e62f0e45bf6218de2edf4dc
+      internalID: 1845716059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_207
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7126f1faa584d994ba75930fb274a257
+      internalID: 778450997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_208
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae69db4a89840049a50088d40762f0b
+      internalID: 1960646538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_209
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cce2d9d54ed2341b596f61cfd059ae
+      internalID: 183446762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_210
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a595e8dbf31bb99439bff8e5f3758f2a
+      internalID: -744326355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_211
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c836e54040e45458fd0060e6d14004
+      internalID: 637897826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_212
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eb0bc0f34f4ab4cb566ff2809b6740
+      internalID: 169360068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_213
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07990dae65a105549bff5cddfa1366dc
+      internalID: -13341948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_214
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487a2797781066043adc283f5db06d3f
+      internalID: 144076017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_215
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f95ddc0e1e8e4bbce0a6b09a1a291
+      internalID: -1955821075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_216
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6db641b61c58141a066fd6fe814d9b
+      internalID: -1759351954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_217
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebcc6653fcc7aa44b0675bb92c95b24
+      internalID: 923841465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_218
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec38a24edcb4e44281f9e820a5b670d
+      internalID: -1387736453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_219
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbea081577a35e4d8c2d006dbb5890d
+      internalID: 585396672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_220
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31065059ce7414747a9a0084d0dcb993
+      internalID: 688292501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_221
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8c844239baa9647a4755788203afc8
+      internalID: 1016072535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_222
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00142cf26b3498c4eb8ad570e1c4f310
+      internalID: -2125655394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_223
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f109b545106c3b349a4b79c88aed15ef
+      internalID: -1848197553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_224
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95eaf97d24e7204da1201bf06899ea7
+      internalID: 2020568870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_225
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf04e07d5ff16749aab0a7b216a2ea1
+      internalID: -855894550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_226
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543d93cc71357d9408b2f1f750d3396f
+      internalID: -306617341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_227
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffec2c1f4379dd14e9c2eea0323831d3
+      internalID: -991629982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_228
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70da82b70da54d24883e648607678492
+      internalID: -1543273429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_229
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7e62a64b7dd624c9ab11e3c3533411
+      internalID: -67138329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_230
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827d8b968580ed4396e4e0745439d98
+      internalID: -2043003089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_231
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b063077030ed8b7409880116d167ef6f
+      internalID: -1029358719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_232
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01b44d5ded010b49a89f88c0cbcb033
+      internalID: 1833159987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_233
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3918729ee70e0646b4bc7e30f0de262
+      internalID: -1437623380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_234
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994570dcf7f00bd4e8c0ed7a83b21fd8
+      internalID: 1338653812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_235
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0865dda51d0cfc449c08684a885595e
+      internalID: -610117432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_236
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d748cf7180c414bb715e2f4378ed1a
+      internalID: 2133848960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_237
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf8050be88c68448a46216636b3ad53
+      internalID: 719371276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_238
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f84f1a48bd8fe6439142f7e7c619e0e
+      internalID: -960001043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_239
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53895005dfafb774aad32d3a0dbcc6ee
+      internalID: -2115972690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_240
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f8f65b1fbce94499e912cca18c6dbe
+      internalID: -1382642768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_241
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3de897c8588d9428d2b360d06edf79
+      internalID: -1830616324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_242
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad16deb05f0abb44a32e7436eae93a7
+      internalID: 1849824781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_243
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab8a97706c8244583d09132013c317
+      internalID: -918966321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_244
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46797c1f55e7c594bbf7cd00e86018e2
+      internalID: -99345552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_245
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6f1b9052fc7b04cad3803eeded64a7
+      internalID: 583083817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_246
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a77112a8e4dff54084f50bc17a73b97
+      internalID: -419007097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_247
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73444fac0c90df41847cae7f7f8d099
+      internalID: 1008162657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_248
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c216fcac876789448ba485efa3c3751f
+      internalID: -2028269978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_249
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9615c0f3c119b244a654ef312dce5e5
+      internalID: 1554841408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_250
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d79005fe61eaf44282bb11aa281dbde
+      internalID: 2036134001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_251
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76610887a23cd1745abd9a3af697cd45
+      internalID: 1550207607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_252
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c200572121746479666f7a34aa1f5d
+      internalID: -724842491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_253
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ffc5a258c7d6a42bda59dba36f6697
+      internalID: -11043011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_254
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc045867e1d16c46b523fac7e500640
+      internalID: -1240478217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_255
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8951251ba54563742b69586ca77dadb5
+      internalID: -1808486062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_256
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615ce327cc41f6d4fa2bd714522d5ada
+      internalID: 1783010276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_257
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5615c9f0d42368c4aa50f9e700868993
+      internalID: -754892194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_258
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58381167814f8c4f9339fa97da01610
+      internalID: 1597803175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_259
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4482d888805bdf84d8d4c1fed1afa66a
+      internalID: 1289988688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_260
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6ce1055b55bef43a5a92a5bf249fc1
+      internalID: -136571610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_261
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f183d9068c4f40bef60ebf16e432d
+      internalID: -1391330317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_262
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bef560e733bd174983c084fb94ce9eb
+      internalID: 1082632668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_263
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522f058ac7fbde43b2cf585277df1aa
+      internalID: -1439941872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_264
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c90bafa9723c4394ada68bb9cdf47
+      internalID: -329557730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_265
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592b68d45e158d249adb2adbd6c9ab50
+      internalID: -1060625276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_266
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c034fb462ebb0845af277ceb0a1959c
+      internalID: 224190430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_267
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c8cc6da890cbf4884f766039186abd
+      internalID: 2135018806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_268
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4ea5e28cd982245a8d69974173f3cb
+      internalID: -1243867286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_269
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca8c6af6406953439a1eb9aaccf59b6
+      internalID: 244458251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_270
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b648e38705764c3459dde00082c671ff
+      internalID: 1057592390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_271
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a80eaaecdfeec4bb25e21b65a099a5
+      internalID: 1627007484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_272
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98962201dd1ba2949807b835cbff8c11
+      internalID: -458284495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_273
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a09195a9b0bd84487e792114dbc435
+      internalID: -1148568736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_274
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67dda3db01f90a4fba8b85c96c97fe0
+      internalID: -267050485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_275
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8285896bd6ca9ea4194f0c9d19cd8b55
+      internalID: 1849245921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_276
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca33eb0cdaa2294499fac8e98cfc9eb
+      internalID: 527556067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_277
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b3e0d402c124042ad061207ca4246d
+      internalID: -610009387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_278
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6129d173cfa2854a8394514c443a58a
+      internalID: 1342095699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_279
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72566f3c2af5f743a156a8911c37589
+      internalID: 510555553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_280
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6d9a3f3bcff004c91de19f75a9d49a
+      internalID: 1947636477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_281
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13bab5cf57bd5648ba55e8d0372287b
+      internalID: -332675501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_243: -918966321
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_144: 186610753
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_55: 989926203
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_272: -458284495
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_244: -99345552
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_252: -724842491
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_108: -312189491
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_265: -1060625276
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_2: -2017978235
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_45: -505212147
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_149: 1416344736
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_260: -136571610
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_151: 311722214
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_182: 470367314
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_83: 1423543225
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_167: -214885499
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_267: 2135018806
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_49: 1797354318
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_227: -991629982
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_77: -277494307
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_98: 253778593
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_174: 1529716782
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_188: -39889464
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_179: 561144443
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_196: 692876445
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_278: 1342095699
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_212: 169360068
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_229: -67138329
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_164: -656109447
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_257: -754892194
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_136: -953961038
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_170: -50728657
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_175: 1651988094
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_238: -960001043
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_56: -1282096937
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_147: 299702825
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_96: 305120548
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_251: 1550207607
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_123: -498412293
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_61: 1221389369
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_124: 913386610
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_184: -1089042700
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_145: 44464363
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_269: 244458251
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_107: -1449875457
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_186: -945054908
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_54: 1239059000
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_130: -1247280208
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_193: 864587870
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_204: -1353373969
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_115: -2109011708
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_239: -2115972690
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_153: 1495244332
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_8: -538875196
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_263: -1439941872
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_206: 1845716059
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_173: 1587226106
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_90: 763422925
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_281: -332675501
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_166: -839457455
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_99: 1296233021
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_125: -2129605737
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_132: 1976582828
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_231: -1029358719
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_87: 1278076287
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_12: -241592722
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_138: -535925538
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_80: 1830533902
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_185: -896013192
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_38: 1227593054
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_3: -516045749
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_106: -533889342
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_161: -1047459864
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_17: -1652280379
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_93: -533296529
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_178: 746606466
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_191: -575667556
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_47: 1943171688
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_114: -285780763
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_163: 400997384
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_158: 1227446651
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_127: -619749776
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_43: -2077368515
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_76: 787954761
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_189: 1484105005
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_53: 454450056
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_128: -248280637
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_176: 1064408684
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_116: 543647630
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_235: -610117432
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_268: -1243867286
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_236: 2133848960
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_216: -1759351954
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_117: 812694029
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_39: -78237876
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_233: -1437623380
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_190: -1737074045
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_168: -1789421335
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_85: 1741733159
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_65: 947851383
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_180: -1089762191
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_111: -1340610452
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_274: -267050485
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_30: 540031161
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_84: 3967944
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_202: -579561836
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_266: 224190430
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_126: -800465368
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_52: -1987382161
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_217: 923841465
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_201: 1144899182
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_51: 1091069261
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_139: -190095556
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_165: 1850979223
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_10: -122881211
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_129: 1724674894
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_37: -1852836990
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_203: 435449564
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_50: -718412177
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_113: -1303926516
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_270: 1057592390
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_19: -1126869154
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_228: -1543273429
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_11: -1475480728
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_14: 91805786
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_24: 1565136971
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_171: 154633414
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_223: -1848197553
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_253: -11043011
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_26: -264903032
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_137: 1830991912
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_271: 1627007484
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_95: -71595507
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_67: 1518230865
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_219: 585396672
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_199: -1394623797
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_159: -2006943608
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_89: 1554808233
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_192: 658717104
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_221: 1016072535
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_254: -1240478217
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_222: -2125655394
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_71: 216311893
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_62: -541939721
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_110: 210159396
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_211: 637897826
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_74: -1194696436
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_258: 1597803175
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_105: 478827635
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_155: -13948441
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_197: 1931234960
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_9: 320648800
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_94: -132211771
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_273: -1148568736
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_134: -521021984
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_183: -216221337
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_218: -1387736453
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_209: 183446762
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_70: -427924458
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_214: 144076017
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_220: 688292501
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_152: -455960742
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_275: 1849245921
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_32: 1159612855
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_119: 1387459085
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_142: -296845617
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_156: 811884585
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_172: 952012513
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_72: -512741154
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_234: 1338653812
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_215: -1955821075
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_25: -2018683522
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_58: 1292677703
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_48: 1991141257
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_245: 583083817
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_0: -675194011
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_6: 2098406459
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_103: 1754984125
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_256: 1783010276
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_135: 880143535
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_28: 8839532
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_23: 2140326727
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_15: -424279485
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_75: 257546137
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_248: -2028269978
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_42: 344099342
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_81: 260967480
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_162: -1030931171
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_195: -827951699
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_112: -1019710663
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_57: 1370287945
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_154: -1716020205
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_92: 2026751161
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_198: -1887232485
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_21: 704347317
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_213: -13341948
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_120: 1525293937
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_187: -827137009
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_232: 1833159987
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_240: -1382642768
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_109: -1501960147
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_249: 1554841408
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_150: -544799381
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_241: -1830616324
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_262: 1082632668
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_148: -1114878887
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_101: -1340338582
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_20: -330889481
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_82: -1768807610
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_97: 708739347
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_194: -474615503
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_68: 1684392329
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_207: 778450997
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_210: -744326355
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_146: 1461064997
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_225: -855894550
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_259: 1289988688
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_4: 675435738
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_34: 1108085269
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_121: 374930506
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_60: -1535374776
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_133: 348295602
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_237: 719371276
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_79: 2129008253
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_250: 2036134001
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_36: -375998202
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_33: 926626773
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_27: -771799329
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_29: -1359946927
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_46: -1367975690
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_230: -2043003089
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_261: -1391330317
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_264: -329557730
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_246: -419007097
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_118: 1662692685
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_143: 1512641881
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_224: 2020568870
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_91: 1867072413
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_5: 2010799646
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_41: 819552173
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_35: 1325777775
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_104: 252143112
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_276: 527556067
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_100: 631137669
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_73: 2006883702
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_63: 69384631
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_169: -719774008
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_22: 2036030889
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_88: 126302729
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_247: 1008162657
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_13: 837887476
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_205: -1363801479
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_277: -610009387
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_279: 510555553
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_160: -2131387990
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_59: 1883652374
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_69: -1815276536
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_1: -1216769604
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_86: 1971899128
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_102: 1355194250
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_140: 340828545
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_7: -784864157
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_44: -1502371885
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_131: -1230613450
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_157: 1832644199
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_31: -1615067655
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_200: -2094013331
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_226: -306617341
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_40: 323574719
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_177: -890930386
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_242: 1849824781
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_18: 585971243
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_181: 1303706529
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_16: -664688462
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_122: 944330656
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_280: 1947636477
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_255: -1808486062
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_208: 1960646538
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_141: 480568425
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_66: 38996964
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_78: 1413267835
+      241-2414725_dragon-warrior-iv-sprite-sheets-wall-sprites (1)_64: 1350238657
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
